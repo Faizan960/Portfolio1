@@ -4,8 +4,8 @@ import Nav from './Components/Navbar';
 import Footer from "./Components/Footer";
 import Home from "./Components/Home";
 import About from "./Components/About";
-{/*import Resume from "./Components/Resume";*/}
-import Project from "./Components/Projects";
+import Resume from "./Components/Resume";
+{/*import Project from "./Components/Projects";*/}
 import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 import nightsky from "./LottieFiles/bg4.json";
